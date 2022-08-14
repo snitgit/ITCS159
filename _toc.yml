@@ -8,5 +8,5 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - file: mymarkdownfile
-- file: Number_with_Math
+- file: number-with-math 
 
